@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$pwm4Kl2EpE0aLcXY9zRZJePATTYVKvkmPz4qH89cWIxg5UyT45MEK",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    }
+  ],
+  "gadjets": [
+    {
+      "id": 1,
+      "title": "iPhone 13 Pro Max",
+      "description": "The iPhone 13 Pro Max is the top-of-the-line model in Apple's latest lineup of smartphones. It boasts a 6.7-inch OLED display, 5G connectivity, a triple-lens rear camera system, and up to 1TB of storage.",
+      "subtitle": "Gold",
+      "model": "MGDC3ZA/A",
+      "price": 1099,
+      "discount": 0,
+      "rating": 4.8,
+      "images": [
+        "https://rozetked.me/images/uploads/t6vHw48cNGKm.jpg",
+        "https://lifehacker.ru/wp-content/uploads/2021/09/wesley-armstrong-GTgYxwskwWA-unsplash_1632843433.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S21 Ultra",
+      "description": "The Samsung Galaxy S21 Ultra is a premium Android smartphone that features a 6.8-inch AMOLED display, 5G connectivity, a quad-lens rear camera system, and up to 512GB of storage.",
+      "subtitle": "Phantom Black",
+      "model": "SM-G998UZKAXAA",
+      "price": 1199.99,
+      "discount": 50,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Google Pixel 6 Pro",
+      "description": "The Google Pixel 6 Pro is the latest flagship smartphone from Google. It features a 6.7-inch OLED display, 5G connectivity, a dual-lens rear camera system, and up to 512GB of storage.",
+      "subtitle": "Stormy Black",
+      "model": "G2G9Q",
+      "price": 999,
+      "discount": 0,
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "title": "OnePlus 10 Pro",
+      "description": "The OnePlus 10 Pro is a high-end Android smartphone that features a 6.7-inch AMOLED display, 5G connectivity, a triple-lens rear camera system, and up to 512GB of storage.",
+      "subtitle": "Morning Mist",
+      "model": "OP10P",
+      "price": 899,
+      "discount": 100,
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "title": "Apple Watch Series 7",
+      "description": "The Apple Watch Series 7 is the latest iteration of Apple's popular smartwatch. It features an always-on Retina display, 5G connectivity, advanced health monitoring features, and up to 32GB of storage.",
+      "subtitle": "Midnight",
+      "model": "M09C3LL/A",
+      "price": 399,
+      "discount": 0,
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "title": "Samsung Galaxy Watch 4 Classic",
+      "description": "The Samsung Galaxy Watch 4 Classic is a premium smartwatch that features a circular AMOLED display, 5G connectivity, advanced health monitoring features, and up to 16GB of storage.",
+      "subtitle": "Black",
+      "model": "SM-R890NZKAXAR",
+      "price": 349.99,
+      "discount": 20,
+      "rating": 4.8
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "title": "iPhone 13",
+      "description": "The iPhone 13 is the latest smartphone from Apple, known for its improved cameras and long battery life.",
+      "image": "https://main-cdn.sbermegamarket.ru/big2/hlr-system/1724239415/100000040187b2.jpg",
+      "discount": null,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "title": "Samsung Galaxy S21",
+      "description": "The Samsung Galaxy S21 is a high-end smartphone from Samsung, known for its advanced features and sleek design.",
+      "image": "https://ichip.ru/images/cache/2021/12/1/fit_960_530_false_crop_1110_624_0_11_q90_549442_27770d9f738ace0cf299dfee1.png",
+      "discount": 10,
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Google Pixel 6",
+      "description": "The Google Pixel 6 is the latest smartphone from Google, known for its advanced camera features and new design.",
+      "image": "https://mockupdaddy.com/wp-content/uploads/edd/2021/08/google-pixel-6-psd-mockup-front-and-back-side.jpg",
+      "discount": null,
+      "rating": 4.9
+    },
+    {
+      "id": 4,
+      "title": "OnePlus 9 Pro",
+      "description": "The OnePlus 9 Pro is a high-end smartphone from OnePlus, known for its fast performance and good cameras.",
+      "image": "https://images.frandroid.com/wp-content/uploads/2021/03/oneplus-9-2.jpg",
+      "discount": 15,
+      "rating": 4.6
+    },
+    {
+      "id": 5,
+      "title": "Xiaomi Mi 11",
+      "description": "The Xiaomi Mi 11 is a high-end smartphone from Xiaomi, known for its large display and good camera.",
+      "image": "https://www.androidauthority.com/wp-content/uploads/2021/03/Xiaomi-Mi-11i-front-back.jpg",
+      "discount": 20,
+      "rating": 4.5
+    },
+    {
+      "id": 6,
+      "title": "Sony Xperia 5 III",
+      "description": "The Sony Xperia 5 III is a high-end smartphone from Sony, known for its advanced camera features and 5G connectivity.",
+      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Sony/Xperia_5_III/csm_Xperia_5_III_group_green_93ce386e2c29.jpg",
+      "discount": null,
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "title": "Motorola Moto G Power (2022)",
+      "description": "The Motorola Moto G Power (2022) is a mid-range smartphone from Motorola, known for its long battery life and affordable price.",
+      "image": "https://ua-motorola.com/i/product/318/5ecaa8852b6e9.png",
+      "discount": 5,
+      "rating": 4.3
+    },
+    {
+      "id": 8,
+      "title": "LG Velvet",
+      "description": "The LG Velvet is a mid-range smartphone from LG, known for its stylish design and good camera.",
+      "image": "https://www.lg.com/pl/images/smartfony/md07510331/gallery/MC-Velvet-AuroraGray-Gallery-D09.jpg",
+      "discount": null,
+      "rating": 4.1
+    },
+    {
+      "id": 9,
+      "title": "Nokia X20",
+      "description": "The Nokia X20 is a mid-range smartphone from Nokia, known for its long battery life and durable design.",
+      "image": "https://mobylat.com/wp-content/uploads/2020/11/Nokia-10-PureView-color-scaled.jpg",
+      "discount": 10,
+      "rating": 3.9
+    }
+  ]
+}
