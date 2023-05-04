@@ -1,12 +1,10 @@
-# pc-webshop
-
-#client
+# client
 - NextJS 13
 - typescript
-#ui
+### ui
 - material-ui
-#auth
+### auth
 - next-auth
-#utils
+### utils
 - eslint
 - lodash
